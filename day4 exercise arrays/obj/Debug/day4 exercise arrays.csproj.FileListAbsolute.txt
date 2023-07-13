@@ -1,0 +1,8 @@
+D:\Simply Learn\day4\day4 exercise arrays\day4 exercise arrays\bin\Debug\day4 exercise arrays.exe.config
+D:\Simply Learn\day4\day4 exercise arrays\day4 exercise arrays\bin\Debug\day4 exercise arrays.exe
+D:\Simply Learn\day4\day4 exercise arrays\day4 exercise arrays\bin\Debug\day4 exercise arrays.pdb
+D:\Simply Learn\day4\day4 exercise arrays\day4 exercise arrays\obj\Debug\day4 exercise arrays.csproj.AssemblyReference.cache
+D:\Simply Learn\day4\day4 exercise arrays\day4 exercise arrays\obj\Debug\day4 exercise arrays.csproj.SuggestedBindingRedirects.cache
+D:\Simply Learn\day4\day4 exercise arrays\day4 exercise arrays\obj\Debug\day4 exercise arrays.csproj.CoreCompileInputs.cache
+D:\Simply Learn\day4\day4 exercise arrays\day4 exercise arrays\obj\Debug\day4 exercise arrays.exe
+D:\Simply Learn\day4\day4 exercise arrays\day4 exercise arrays\obj\Debug\day4 exercise arrays.pdb
